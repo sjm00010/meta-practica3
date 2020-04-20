@@ -1,0 +1,17 @@
+carpeta_datos = ./_data/
+carpeta_logs = ./_logs/
+input = malaga04.dat
+dni = 26515294
+num_pruebas = 5
+tam_poblacion = 25
+maximo_generaciones = 1000
+probabilidad_cruce = 1.0
+probabilidad_mutacion = 0.05
+prob_OX2 = 0.5
+tenencia_tabu = 5
+generaciones_tabu = 50
+numero_soluciones_tabu = 10
+maximo_intentos_tabu = 100
+numero_iteraciones_tabu = 500
+tipo_cruce = MOC
+crear_logs = SI
